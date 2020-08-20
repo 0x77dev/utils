@@ -1,5 +1,5 @@
 # Utils
-A repo with Github Pages with my chrore utilities.
+A repo with Github Pages with my chore utilities.
 
 ## Speedtest
 `/speedtest`
